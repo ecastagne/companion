@@ -205,3 +205,6 @@
 [submodule "lib/module/analogway-eks500"]
 	path = lib/module/analogway-eks500
 	url = https://github.com/bitfocus/companion-module-analogway-eks500.git
+[submodule "lib/module/companion-module-coriomaster"]
+	path = lib/module/companion-module-coriomaster
+	url = https://github.com/ecastagne/companion-module-coriomaster.git
